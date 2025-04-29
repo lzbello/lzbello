@@ -2,9 +2,13 @@
 
 
 
-![Bello's GitHub stats](https://github-readme-stats.vercel.app/api?username=lzbello&theme=slateorange)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lzbello&layout=compact&theme=slateorange)
+<img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=lzbello&show_icons=true&theme=transparent"/>
+
+
+
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzbello&layout=compact&&langs_count=8"/>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="bello-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
