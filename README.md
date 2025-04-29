@@ -1,6 +1,6 @@
 ## Opaa!! Sou o Luiz Bello, corretor de imoveis e freelancer!
 
-![Bellos's GitHub stats](https://github-readme-stats.vercel.app/api?username=lzbello&show_icons=true&theme=github_dark_dimmed)
+![Bellos's GitHub stats](https://github-readme-stats.vercel.app/api?username=lzbello&theme=github_dark_dimmed)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lzbello&layout=compact&theme=github_dark_dimmed)
 
