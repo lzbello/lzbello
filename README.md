@@ -1,13 +1,5 @@
-## !! Sou o Luiz Bello, corretor de imoveis e freelancer!
+## !! Sou o Luiz Bello
 
-
-
-
-<img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=lzbello&show_icons=true&theme=transparent"/>
-
-
-
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzbello&layout=compact&&langs_count=8"/>
 
 
 <div style="display: inline_block"><br>
